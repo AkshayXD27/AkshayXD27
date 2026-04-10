@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100%" height="120" alt="Matrix Code Rain Banner">
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100%" height="100" alt="Matrix Code Rain Banner">
 </div>
 
 <h1 align="center">Hi, I'm Akshay</h1>
@@ -43,16 +43,13 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkshayXD27&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=AkshayXD27&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
 ---
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd6eGI4YmJ2bjhrdnR0ZmJqdDFtYm9zM3cwaDV1ZmR3MjgweHFvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8gZWKFe0bEDLAnBiQ/giphy.gif" />
+<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd6eGI4YmJ2bjhrdnR0ZmJqdDFtYm9zM3cwaDV1ZmR3MjgweHFvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8gZWKFe0bEDLAnBiQ/giphy.gif" />
 
 ---
 
