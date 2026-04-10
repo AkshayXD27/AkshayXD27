@@ -49,8 +49,6 @@
 </div>
 
 ---
-<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd6eGI4YmJ2bjhrdnR0ZmJqdDFtYm9zM3cwaDV1ZmR3MjgweHFvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8gZWKFe0bEDLAnBiQ/giphy.gif" />
-
 ---
 
 ### 🐍 Contribution Graph
@@ -58,3 +56,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/akshayxd27/akshayxd27/output/snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd6eGI4YmJ2bjhrdnR0ZmJqdDFtYm9zM3cwaDV1ZmR3MjgweHFvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8gZWKFe0bEDLAnBiQ/giphy.gif" />
+<br><br><br><br><br><br><br> 
