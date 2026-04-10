@@ -45,7 +45,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkshayXD27&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=AkshayXD27&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=AkshayXD27&layout=compact&theme=dracula&v=1" height="150" alt="Top Languages" />
 </div>
 
 ---
