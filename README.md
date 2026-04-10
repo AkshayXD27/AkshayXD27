@@ -28,7 +28,7 @@
 ### ⚙️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,js,linux,git,bash" />
+  <img src="https://skillicons.dev/icons?i=c,python,js,linux,git,html" />
 </p>
 
 ---
