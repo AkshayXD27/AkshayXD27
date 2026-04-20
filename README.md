@@ -1,4 +1,4 @@
-## Akshay — Cybersecurity & Cloud Security Enthusiast
+## Akshay — Cybersecurity Student
 
 ### 📚 Learning
 
