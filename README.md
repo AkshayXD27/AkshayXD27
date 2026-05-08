@@ -2,16 +2,16 @@
 
 ### 📚 Learning
 
-* 🟦 C
-* 🐍 Python
-* 🟨 JavaScript
-* 🔐 Cybersecurity (TryHackMe)
+*  C
+*  Python
+*  JavaScript
+*  Cybersecurity (TryHackMe)
 
 ### 🎯 Focus
 
 * 🌐 Network Security
 * 🐧 Linux
-* 🧪 Hands-on Labs
+*  Hands-on Labs
 
 ### 🚀 Projects
 
