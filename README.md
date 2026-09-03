@@ -2,15 +2,16 @@
 
 ### 📚 Learning
 
-*  C
+*  Dart & Flutter
 *  Python
-*  JavaScript
+*  Go
 *  Cybersecurity (TryHackMe)
 
 ### 🎯 Focus
 
 * 🌐 Network Security
 * 🐧 Linux
+* Cisco Cybersecurity(Course) 
 *  Hands-on Labs
 
 ### 🚀 Projects
@@ -21,4 +22,4 @@
 
 ### 📫 Contact
 
-* [akshay0xdev@tutanota.com](mailto:akshay0xdev@tutanota.com)
+* [akshay0xdev@proton.me](mailto:akshay0xdev@proton.me)
